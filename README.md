@@ -1,2 +1,2 @@
 # Space-Invader
-Ggame for University in Java
+Game for University in Java
